@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there  
+### Here are some of my past projects done during HNG Intership:
+### https://spotonsound.netlify.app/ 
+### https://dealrestaurant.netlify.app/
+### https://barbershop-landing-page-jl.netlify.app/
 <!--
 **jebitok-dev/Jebitok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
