@@ -6,7 +6,7 @@
 - 💬 Ask me about web development, javascript and tech related ideas.
 - 📫 How to reach me: sharonkosgei4@gmail.com 
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: I love listening to music and I support ** African music to the World **
+- ⚡ Fun fact: I support **African music to the World**
              : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
 Here are some of my past projects done during HNG Intership:
 - https://spotonsound.netlify.app/ 
