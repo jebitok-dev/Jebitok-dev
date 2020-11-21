@@ -1,6 +1,6 @@
 ### Hi there, I'm Sharon Jebitok 🤝
-- 🔭 I’m currently working on react projects
-- 🌱 I’m currently learning to write meaningful code using javascript, react, nodejs, html and css plus a bit of figma for design.
+- 🔭 I’m currently a student at Microverse
+- 🌱 I’m currently learning to write meaningful code using JavaScript, React, Ruby, Ruby on Rails, SQL, html and css plus a bit of figma for design.
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on javascript and react.
 - 🤔 I’m looking for help with proper deployment of projects using heroku
 - 💬 Ask me about web development, javascript and tech related ideas.
