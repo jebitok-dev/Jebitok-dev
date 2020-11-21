@@ -7,11 +7,8 @@
 - 📫 How to reach me: sharonkosgei4@gmail.com 
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I support **African music to the World**
-             : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
-Here are some of my past projects done during HNG Intership:
-- https://spotonsound.netlify.app/ 
-- https://dealrestaurant.netlify.app/
-- https://barbershop-landing-page-jl.netlify.app/
+ : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
+
 <!--
 **jebitok-dev/Jebitok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Here are some of my past projects done during HNG Intership:
+- https://spotonsound.netlify.app/ 
+- https://dealrestaurant.netlify.app/
+- https://barbershop-landing-page-jl.netlify.app/
 -->
