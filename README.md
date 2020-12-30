@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on javascript and react.
 - 🤔 I’m looking for help with proper deployment of projects using heroku
 - 💬 Ask me about web development, javascript and tech related ideas.
-- 📫 How to reach me: sharonkosgei4@gmail.com 
+- 📫 How to reach me: sharonkosgei4@gmail.com | [hashnode](https://jebitok.hashnode.dev/)
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I support **African music to the World**
  : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
