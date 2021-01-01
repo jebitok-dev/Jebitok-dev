@@ -5,8 +5,8 @@
 </p>
 
 - 🔭 I’m currently a student at Microverse
-- 🌱 I’m currently learning to write meaningful code using JavaScript, React, Ruby, Ruby on Rails, SQL, html and css plus a bit of figma for design.
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on javascript and react.
+- 🌱 I’m currently learning to write meaningful code using Ruby, Ruby on Rails, SQL, plus a bit of figma for design.
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on javascript, HTML5, CSS3, bootstrap and react.
 - 🤔 I’m looking for help with proper deployment of projects using heroku
 - 💬 Ask me about web development, javascript and tech related ideas.
 - 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/)
