@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
 </p>
 
-- 🔭 I’m currently a student at Microverse
+- 🔭 I’m currently a full-time student at Microverse
 - 🌱 I’m currently learning to write meaningful code using Ruby, Ruby on Rails, SQL, plus a bit of figma for design.
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on javascript, HTML5, CSS3, bootstrap and react.
 - 🤔 I’m looking for help with proper deployment of projects using heroku
