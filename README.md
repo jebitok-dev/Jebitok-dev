@@ -5,10 +5,10 @@
 </p>
 
 - 🔭 I’m currently a full-time student at Microverse
-- 🌱 I’m currently learning to write meaningful code using Ruby, Ruby on Rails, SQL, plus a bit of figma for design.
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on javascript, HTML5, CSS3, bootstrap and react.
-- 🤔 I’m looking for help with proper deployment of projects using heroku
-- 💬 Ask me about web development, javascript and tech related ideas.
+- 🌱 I’m currently learning to write meaningful code using Ruby, Ruby on Rails, SQL, React-Redux plus a bit of figma for design.
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, HTML5, CSS3, Bootstrap and React.
+- 🤔 I’m looking for help with proper deployment of projects using heroku and getting started with smart contract development on networks like BSC, Stacks, Solana...
+- 💬 Ask me about web development, Javascript and tech related ideas especially if you want to get started or still a newbie.
 - 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/)
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I support **African music to the World**
