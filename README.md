@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, HTML5, CSS3, Bootstrap and React.
 - 🤔 I’m looking for help with proper deployment of projects using heroku and getting started with smart contract development on networks like BSC, Stacks, Solana...
 - 💬 Ask me about web development, Javascript and tech related ideas especially if you want to get started or still a newbie.
-- 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/)
+- 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/) | [Linktree](https://linktr.ee/SharonJebitok)
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I support **African music to the World**
  : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
