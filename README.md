@@ -4,9 +4,9 @@
   <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
 </p>
 
-- 🔭 I’m currently a full-time student at Microverse and working on Ruby on Rails & React projects.
-- 🌱 I’m currently learning Jamstack, Node.js TailwindCSS and how to build scalable smart contracts.
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, Ruby on Rails, React, HTML5, CSS3, Bootstrap and React.
+- 🔭 I’m currently a fullstack engineer at Powwater building projects using React and Node.js.
+- 🌱 I’m currently learning Jamstack, TailwindCSS and how to build scalable smart contracts.
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Ruby on Rails, React, HTML5, CSS3, Bootstrap and React.
 - 🤔 I’m looking for help with proper deployment of projects using heroku and getting started with smart contract development on networks like BSC, Stacks, Solana...
 - 💬 Ask me about web development, Javascript and tech related ideas especially if you want to get started or still a newbie.
 - 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/) | [Linktree](https://linktr.ee/SharonJebitok)
