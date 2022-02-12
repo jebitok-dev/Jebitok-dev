@@ -4,11 +4,11 @@
   <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
 </p>
 
-- 🔭 I’m currently a fullstack engineer at Powwater building projects using React and Node.js.
-- 🌱 I’m currently learning Jamstack, TailwindCSS and how to build scalable smart contracts.
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Ruby on Rails, React, HTML5, CSS3, Bootstrap and React.
-- 🤔 I’m looking for help with proper deployment of projects using heroku and getting started with smart contract development on networks like BSC, Stacks, Solana...
-- 💬 Ask me about web development, Javascript and tech related ideas especially if you want to get started or still a newbie.
+- 🔭 I’m currently a fullstack engineer at Powwater building projects using React.js, React-Native and Node.js amd focusing on blockchain technical writing.
+- 🌱 I’m currently learning Jamstack, TailwindCSS and how to build scalable smart contracts on Ethereum blockchain using Solidity at [Web3Bridge](https://www.web3bridge.com/)
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Ruby on Rails, React.js, HTML5, CSS3, Bootstrap and React-Native.
+- 🤔 I’m looking for help with proper building of APIs and getting started with smart contract development on networks like [Ethereum](https://ethereum.org/en/), [BSC](https://www.binance.org/en), [ChainLink](https://chain.link/), [Stacks](https://www.stacks.co/), [Solana](https://solana.com/), [Celo](https://celo.org/)...
+- 💬 Ask me about Full-stack Web Development, Technical Writing, Javascript and tech related ideas especially if you want to get started or still a newbie.
 - 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/) | [Linktree](https://linktr.ee/SharonJebitok)
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I support **African music to the World**
