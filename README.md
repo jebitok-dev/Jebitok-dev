@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
 </p>
 
-- 🔭 I’m currently a blockchain developer at ABC and previously a fullstack engineer at Powwater building projects using React.js, React-Native and Node.js amd focusing on blockchain technical writing.
+- 🔭 I’m currently a Web3 Software developer at [UTU](utu.io) and previously [ABC](https://theafricablockchaincenter.com/) & [Powwater](powwater.com) building projects using React.js, React-Native and Node.js amd focusing on blockchain technical writing.
 - 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity at [Web3Bridge](https://www.web3bridge.com/)
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Ruby on Rails, React.js, HTML5, CSS3, Bootstrap and React-Native.
 - 🤔 I’m looking for help with proper building of APIs, Jamstack, TailwindCSS and getting started with smart contract development on networks like [Ethereum](https://ethereum.org/en/), [BSC](https://www.binance.org/en), [ChainLink](https://chain.link/), [Stacks](https://www.stacks.co/), [Solana](https://solana.com/), [Celo](https://celo.org/), contributions on [Gitcoin](https://gitcoin.co/) and participation in different blockchain hackathons.
