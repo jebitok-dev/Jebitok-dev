@@ -14,7 +14,10 @@
 - ⚡ Fun fact: I support **African music to the World**
  : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
  
- [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats)
+ [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats) 
+ 
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31li24rfgshtlulhsx2bilctnuv4&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+ 
 <!--
 **jebitok-dev/Jebitok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
