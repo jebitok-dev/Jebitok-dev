@@ -53,7 +53,7 @@ I'm always open to:
 - Joining CTF teams or research groups  
 - Learning alongside other early-career professionals  
 
-📬 Reach out via [LinkedIn](https://www.linkedin.com/in/sharon-jebitok) or [Hashnode contact](https://jebitok.hashnode.dev/) — or DM via Linktree.
+📬 Reach out via [LinkedIn](https://www.linkedin.com/in/sharon-jebitok) or [Hashnode](https://jebitok.hashnode.dev/) — or DM via Linktree.
 
 ---
 
