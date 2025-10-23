@@ -1,69 +1,40 @@
-### 👋 Hi there, 
+### 👋 Hi there,
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
-</p>
-
-🎯 **Cybersecurity Learner • Red Team Enthusiast • Technical Writer**  
+🎯 **Security Research • Web & Smart Contract Security • Software Developer**  
 🌍 UTC+3  
 
 ---
 
-I'm a self-driven cybersecurity learner focused on **offensive security**, hands-on projects, and beginner-friendly infosec writing. I transitioned into security from a software & blockchain background, and I'm currently leveling up through:
+I explore **offensive security**, focusing on **web app and blockchain vulnerabilities** while building tools and writing beginner-friendly infosec content.  
+With a background in **software and blockchain development**, I bring both a developer’s and a security researcher’s curiosity.
 
-- 🔐 Practicing **web app and network attacks** using tools like Burp Suite, Nmap, Gobuster, SQLMap  
-- 🚩 Solving CTFs via TryHackMe, PicoCTF, and OverTheWire  
-- ✍️ Writing walk-throughs and vulnerability explainers on [Hashnode](https://jebitok.hashnode.dev)  
-- 🔗 Exploring **smart contract security** (Cyfrin Updraft)
-
----
-
-### 🔎 Interests & Goals
-
-- 🤝 Entry-level roles: cybersecurity, technical writing, security content  
-- 👯 Collaboration: open-source security tools, CTF writeups, docs  
-- 🧪 Real-world projects: penetration testing labs, security automation  
-- 🧠 Blockchain security: smart contract exploits, audit writeups, DeFi labs
+- 🔐 Practicing web & network pentesting (Burp Suite, Nmap, SQLMap)  
+- 🚩 Solving CTFs on TryHackMe  
+- ✍️ Writing writeups & walkthroughs on [Hashnode](https://jebitok.hashnode.dev)  
+- 🔗 Exploring smart contract exploits via Cyfrin Updraft 
 
 ---
 
-### 🛠️ Skills Snapshot
+### 🧠 Interests
 
-| 🛡️ Cybersecurity             | 💻 Development             | ⛓ Blockchain Security          |
-|-----------------------------|----------------------------|-------------------------------|
-| Burp Suite, Nmap, Gobuster  | HTML, CSS, JS, React       | Solidity, Hardhat, IPFS       |
-| SQLi, XSS, LFI, OSINT       | Git, GitHub, REST APIs     | Cyfrin, Secureum, Ethernaut   |
-| Linux, Bash, PrivEsc        | Markdown, Docs, Hashnode   | Gitcoin, Web3Bridge, Code4rena|
+Web & application security • Smart contract vulnerabilities • Recon & exploitation labs •  
+Security automation • Open-source research & documentation  
 
 ---
 
-### 🧰 Featured Resources
+### 🛠️ Tech Snapshot
 
-- 📘 [Hashnode Blog](https://jebitok.hashnode.dev) — CTF writeups & infosec explainers  
-- 🌍 [Linktree](https://linktr.ee/SharonJebitok) — Projects, socials & blog links  
-- 🔗 [Cyfrin Updraft](https://github.com/Cyfrin/updraft), [Secureum](https://secureum.substack.com/), and [Ethernaut](https://ethernaut.openzeppelin.com/) for Solidity security
-
----
-
-### 💬 Let's Connect
-
-I'm always open to:
-- Contributing to open-source cybersecurity content  
-- Joining CTF teams or research groups  
-- Learning alongside other early-career professionals  
-
-📬 Reach out via [LinkedIn](https://www.linkedin.com/in/sharon-jebitok) or [Hashnode](https://jebitok.hashnode.dev/) — or DM via Linktree.
+| 🛡️ Security & Tools | 💻 Development & DevOps | ⛓ Blockchain Security |
+|----------------------|-------------------------|------------------------|
+| Burp Suite, Nmap, Gobuster, SQLMap | JS, React, Bash, CI/CD, Docker | Solidity, Hardhat, Foundry |
+| XSS, LFI, SQLi, PrivEsc, OSINT | Git, APIs, Terraform, AWS | Cyfrin |
 
 ---
 
-### ⚡ Quick Facts
-
-- 🧠 Switched from Agribusiness to Tech & Security  
-- 🎶 Fan of African music & community learning  
-- 🌱 Always learning, always sharing
+📘 [Hashnode](https://jebitok.hashnode.dev) • 🌍 [Linktree](https://linktr.ee/SharonJebitok) • 💼 [LinkedIn](https://www.linkedin.com/in/sharon-jebitok)
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=dark&layout=compact)
