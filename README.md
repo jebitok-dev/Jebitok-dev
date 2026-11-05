@@ -1,40 +1,58 @@
-### 👋 Hi there,
+### Hi, I'm Sharon 👋
 
-🎯 **Security Research • Web & Smart Contract Security • Software Developer**  
-🌍 UTC+3  
+  **Security Researcher · Software Engineer**
+  📍 Nairobi, Kenya (UTC+3)
 
----
+  Software engineer turned security researcher. 4+ years shipping production TypeScript, React
+  and Node.js, now focused on how systems break: AI / LLM security, web app security and
+  smart-contract auditing.
 
-I explore **offensive security**, focusing on **web app and blockchain vulnerabilities** while building tools and writing beginner-friendly infosec content.  
-With a background in **software and blockchain development**, I bring both a developer’s and a security researcher’s curiosity.
+  - 🤖 **AI security** - red-teaming LLM apps (Gray Swan arena), writeups and checklists
+  mapping the OWASP LLM Top 10 and MITRE ATLAS onto real systems
+  - 🚩 **Top 1% on TryHackMe** - SOC Level 1, Jr Penetration Tester, AI Security (path
+  completed)
+  - ⛓ **Smart-contract auditing** - 10 CodeHawks First Flights, 1 medium-severity finding
+  reported
+  - 🛡️  **Blue team** - Splunk investigations, detection engineering, AD / Entra ID monitoring
+  - ✍️  Writing walkthroughs at [sharonjebitok.com](https://www.sharonjebitok.com)
 
-- 🔐 Practicing web & network pentesting (Burp Suite, Nmap, SQLMap)  
-- 🚩 Solving CTFs on TryHackMe  
-- ✍️ Writing writeups & walkthroughs on [Hashnode](https://jebitok.hashnode.dev)  
-- 🔗 Exploring smart contract exploits via Cyfrin Updraft 
+  🔨 **Currently building:** an LLM app recon toolkit (snapshot and diff a target's JS
+  bundles, flag new endpoints)
 
----
+  💼 **Open to:** security research, AppSec / AI security and security-minded engineering
+  roles
 
-### 🧠 Interests
+  ---
 
-Web & application security • Smart contract vulnerabilities • Recon & exploitation labs •  
-Security automation • Open-source research & documentation  
+  ### 📌 Featured work
 
----
+  | Project | What it is |
+  |---|---|
+  | [ai-security-writeups](https://github.com/jebitok-dev/ai-security-writeups) | Pentest
+  reports from AI-security CTFs - 17 findings across prompt injection, SSRF, data poisoning
+  and agentic trust-boundary bypass |
+  | [AI-Security-Checklists](https://github.com/jebitok-dev/AI-Security-Checklists) | OWASP
+  LLM Top 10, OWASP Top 10, MITRE ATLAS and STRIDE mapped to concrete checks, plus a
+  prompt-injection payload library |
+  | [web3-auditing-projects](https://github.com/jebitok-dev/web3-auditing-projects) |
+  CodeHawks First Flight audits with a custom Foundry `audit.sh` (recon, Slither/Aderyn,
+  tests, pre-filled report) |
 
-### 🛠️ Tech Snapshot
+  ---
 
-| 🛡️ Security & Tools | 💻 Development & DevOps | ⛓ Blockchain Security |
-|----------------------|-------------------------|------------------------|
-| Burp Suite, Nmap, Gobuster, SQLMap | JS, React, Bash, CI/CD, Docker | Solidity, Hardhat, Foundry |
-| XSS, LFI, SQLi, PrivEsc, OSINT | Git, APIs, Terraform, AWS | Cyfrin |
+  ### 🛠️  Tech snapshot
 
----
+  | 🛡️  Security | 💻 Engineering | ⛓ Blockchain | ☁️  AI & cloud |
+  |---|---|---|---|
+  | Threat modelling, secure code review | TypeScript, React / Next.js, Node.js | Solidity,
+  Foundry | LLM integration (OpenAI / Groq / Ollama) |
+  | Burp Suite, Nmap, Metasploit, Wireshark | Python, Rust, Bash, PowerShell | Slither, Aderyn
+  | AWS, Docker, Linux |
+  | Splunk, log & malware analysis, OSINT | Ruby on Rails, GraphQL | EVM, The Graph, ICP | Git
+  / GitLab CI |
 
-📘 [Hashnode](https://jebitok.hashnode.dev) • 🌍 [Linktree](https://linktr.ee/SharonJebitok) • 💼 [LinkedIn](https://www.linkedin.com/in/sharon-jebitok)
+  ---
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=dark&layout=compact)
+  🌐 [Portfolio](https://sharonjebitok.com) • ✍️  [Blog](https://www.sharonjebitok.com) • 💼
+  [LinkedIn](https://www.linkedin.com/in/sharon-jebitok) • 📧
+  [Email](mailto:sharonkosgei4@gmail.com)
